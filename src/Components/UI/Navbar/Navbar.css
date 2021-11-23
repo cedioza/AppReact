@@ -1,0 +1,14 @@
+.navbar 
+{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    text-decoration: none;
+    color: #125C13;
+    padding:1rem 1rem;
+}
+.navbar li:hover
+{
+    background-color: #FBFF00;
+    border-radius: 2em;
+}

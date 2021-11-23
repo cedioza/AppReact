@@ -1,0 +1,14 @@
+.Presentation h1,p
+{
+ text-align: center;
+ 
+}
+.Presentation h1
+{
+    color:#125C13;
+}
+.Presentation p
+{
+    padding:1rem 0.5rem;
+    color:#116530;
+}
